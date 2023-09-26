@@ -1,0 +1,73 @@
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\breno_nunes\Pizzaria\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\breno_nunes\Pizzaria\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\breno_nunes\Pizzaria\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\breno_nunes\Pizzaria\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\breno_nunes\Pizzaria\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\breno_nunes\Pizzaria\obj\Debug\net6.0\ref\Pizzaria.dll
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\Matheus Lopes\OneDrive\Área de Trabalho\Trabalho_c#\projetoPizzaria\obj\Debug\net6.0\ref\Pizzaria.dll
+C:\Users\Matheus Lopes\projetoPizzaria\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\Matheus Lopes\projetoPizzaria\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\Matheus Lopes\projetoPizzaria\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\Matheus Lopes\projetoPizzaria\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\Matheus Lopes\projetoPizzaria\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.csproj.AssemblyReference.cache
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\Matheus Lopes\projetoPizzaria\obj\Debug\net6.0\ref\Pizzaria.dll
+C:\Users\lukal\Desktop\projetoPizzaria-main\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\lukal\Desktop\projetoPizzaria-main\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\lukal\Desktop\projetoPizzaria-main\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\lukal\Desktop\projetoPizzaria-main\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\lukal\Desktop\projetoPizzaria-main\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\lukal\Desktop\projetoPizzaria-main\obj\Debug\net6.0\ref\Pizzaria.dll
+C:\Users\lukal\Desktop\Pizzaria\bin\Debug\net6.0\Pizzaria.exe
+C:\Users\lukal\Desktop\Pizzaria\bin\Debug\net6.0\Pizzaria.deps.json
+C:\Users\lukal\Desktop\Pizzaria\bin\Debug\net6.0\Pizzaria.runtimeconfig.json
+C:\Users\lukal\Desktop\Pizzaria\bin\Debug\net6.0\Pizzaria.dll
+C:\Users\lukal\Desktop\Pizzaria\bin\Debug\net6.0\Pizzaria.pdb
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfoInputs.cache
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.AssemblyInfo.cs
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.dll
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\refint\Pizzaria.dll
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.pdb
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\Pizzaria.genruntimeconfig.cache
+C:\Users\lukal\Desktop\Pizzaria\obj\Debug\net6.0\ref\Pizzaria.dll
